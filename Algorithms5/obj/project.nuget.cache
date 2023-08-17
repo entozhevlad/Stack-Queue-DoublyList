@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3eMeh04pRr/IDH9DF2sD17sppigsaiU1o325KM4dNae70w6RYiONJqvj80DBpw/MtOECUQrtiSVOsV0w3LS7Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RBT\\source\\repos\\Algorithms5\\Algorithms5\\Algorithms5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RBT\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\RBT\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\RBT\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\RBT\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\RBT\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\RBT\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\RBT\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
